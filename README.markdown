@@ -1,6 +1,6 @@
 # Product Landing Page
 
-https://res.cloudinary.com/dkp2goy1i/image/upload/v1617665591/jellybeans_ss_jwthvz.jpg
+![alt text](https://github.com/[shaunamohan]/[rTest-1]/blob/[main]/image.jpg?raw=true)
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/s_mohan/pen/rNWqYLy](https://codepen.io/s_mohan/pen/rNWqYLy).
 
